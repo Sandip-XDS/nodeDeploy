@@ -1,0 +1,6 @@
+[web]
+testweb ansible_host=45.79.125.28 ansible_user=root ansible_pass=HelloLinode1123@
+                                                                                
+
+[nodeexporter]
+155.248.243.146
